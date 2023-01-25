@@ -1,19 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=884EA0&height=120&section=header"/>
 <div align="center">
 </div>
-<br>
-<div align="center">  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryFacens&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryFacens&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<br>
-<br>
-<br>
-
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HenryFacens&bg_color=0d1117&color=ffffff&line=965a92&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Languages :
 
